@@ -13,7 +13,7 @@
                 </div>
             </li>
               <li class="active">
-                <a class="nav nav-second-level" href="index.php">Home</a></li>
+                <a class="nav nav-second-level" href="dash.php">Home</a></li>
               </li>
 
             <li>
